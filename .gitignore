@@ -81,7 +81,7 @@ node_modules
 
 # Code Editor files
 .idea
-.vscode
+# .vscode
 *.sublime-project
 *.sublime-workspace
 
