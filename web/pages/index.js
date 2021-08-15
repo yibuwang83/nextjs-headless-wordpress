@@ -1,9 +1,7 @@
-import React from 'react'
-
 export default function Index() {
   return (
-    <div>
-        hello world
+    <div className="">
+      <div className="text-lg leading-6 font-medium text-gray-900">hello world</div>
     </div>
-  )
+  );
 }
