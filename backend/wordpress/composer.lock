@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "179f10ead20891472b51b55aa11d8f43",
+    "content-hash": "8253f9b85f7380acb719997b632dba95",
     "packages": [
         {
             "name": "ashhitch/wp-graphql-yoast-seo",
-            "version": "v4.11.0",
+            "version": "v4.15.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ashhitch/wp-graphql-yoast-seo.git",
-                "reference": "eaa170effb25d992173f32f009a15e06322d1af3"
+                "reference": "47934bf8a8dcea9336d5fc734e8beac8aaa2d775"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ashhitch/wp-graphql-yoast-seo/zipball/eaa170effb25d992173f32f009a15e06322d1af3",
-                "reference": "eaa170effb25d992173f32f009a15e06322d1af3",
+                "url": "https://api.github.com/repos/ashhitch/wp-graphql-yoast-seo/zipball/47934bf8a8dcea9336d5fc734e8beac8aaa2d775",
+                "reference": "47934bf8a8dcea9336d5fc734e8beac8aaa2d775",
                 "shasum": ""
             },
             "require": {
@@ -44,20 +44,24 @@
                 }
             ],
             "description": "Query Yoast SEO data with wp-graphql",
-            "time": "2021-01-08T08:24:34+00:00"
+            "support": {
+                "issues": "https://github.com/ashhitch/wp-graphql-yoast-seo/issues",
+                "source": "https://github.com/ashhitch/wp-graphql-yoast-seo/tree/v4.15.0"
+            },
+            "time": "2021-07-15T12:34:20+00:00"
         },
         {
             "name": "composer/installers",
-            "version": "v1.10.0",
+            "version": "v1.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "1a0357fccad9d1cc1ea0c9a05b8847fbccccb78d"
+                "reference": "ae03311f45dfe194412081526be2e003960df74b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/1a0357fccad9d1cc1ea0c9a05b8847fbccccb78d",
-                "reference": "1a0357fccad9d1cc1ea0c9a05b8847fbccccb78d",
+                "url": "https://api.github.com/repos/composer/installers/zipball/ae03311f45dfe194412081526be2e003960df74b",
+                "reference": "ae03311f45dfe194412081526be2e003960df74b",
                 "shasum": ""
             },
             "require": {
@@ -151,6 +155,7 @@
                 "majima",
                 "mako",
                 "mediawiki",
+                "miaoxing",
                 "modulework",
                 "modx",
                 "moodle",
@@ -168,12 +173,17 @@
                 "sydes",
                 "sylius",
                 "symfony",
+                "tastyigniter",
                 "typo3",
                 "wordpress",
                 "yawik",
                 "zend",
                 "zikula"
             ],
+            "support": {
+                "issues": "https://github.com/composer/installers/issues",
+                "source": "https://github.com/composer/installers/tree/v1.11.0"
+            },
             "funding": [
                 {
                     "url": "https://packagist.com",
@@ -188,7 +198,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-14T11:07:16+00:00"
+            "time": "2021-04-28T06:42:17+00:00"
         },
         {
             "name": "firebase/php-jwt",
@@ -231,6 +241,10 @@
             ],
             "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
             "homepage": "https://github.com/firebase/php-jwt",
+            "support": {
+                "issues": "https://github.com/firebase/php-jwt/issues",
+                "source": "https://github.com/firebase/php-jwt/tree/v4.0.0"
+            },
             "time": "2016-07-18T04:51:16+00:00"
         },
         {
@@ -298,20 +312,24 @@
                 "rest",
                 "web service"
             ],
+            "support": {
+                "issues": "https://github.com/guzzle/guzzle/issues",
+                "source": "https://github.com/guzzle/guzzle/tree/6.5"
+            },
             "time": "2020-06-16T21:01:06+00:00"
         },
         {
             "name": "guzzlehttp/promises",
-            "version": "1.4.0",
+            "version": "1.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/promises.git",
-                "reference": "60d379c243457e073cff02bc323a2a86cb355631"
+                "reference": "8e7d04f1f6450fef59366c399cfad4b9383aa30d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/promises/zipball/60d379c243457e073cff02bc323a2a86cb355631",
-                "reference": "60d379c243457e073cff02bc323a2a86cb355631",
+                "url": "https://api.github.com/repos/guzzle/promises/zipball/8e7d04f1f6450fef59366c399cfad4b9383aa30d",
+                "reference": "8e7d04f1f6450fef59366c399cfad4b9383aa30d",
                 "shasum": ""
             },
             "require": {
@@ -349,20 +367,24 @@
             "keywords": [
                 "promise"
             ],
-            "time": "2020-09-30T07:37:28+00:00"
+            "support": {
+                "issues": "https://github.com/guzzle/promises/issues",
+                "source": "https://github.com/guzzle/promises/tree/1.4.1"
+            },
+            "time": "2021-03-07T09:25:29+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "1.7.0",
+            "version": "1.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "53330f47520498c0ae1f61f7e2c90f55690c06a3"
+                "reference": "dc960a912984efb74d0a90222870c72c87f10c91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/53330f47520498c0ae1f61f7e2c90f55690c06a3",
-                "reference": "53330f47520498c0ae1f61f7e2c90f55690c06a3",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/dc960a912984efb74d0a90222870c72c87f10c91",
+                "reference": "dc960a912984efb74d0a90222870c72c87f10c91",
                 "shasum": ""
             },
             "require": {
@@ -420,20 +442,24 @@
                 "uri",
                 "url"
             ],
-            "time": "2020-09-30T07:37:11+00:00"
+            "support": {
+                "issues": "https://github.com/guzzle/psr7/issues",
+                "source": "https://github.com/guzzle/psr7/tree/1.8.2"
+            },
+            "time": "2021-04-26T09:17:50+00:00"
         },
         {
             "name": "imranhsayed/headless-cms",
-            "version": "1.3.0",
+            "version": "1.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imranhsayed/headless-cms.git",
-                "reference": "913c7e9b640b8479ce76624f81960137a21dcb11"
+                "reference": "25e10c1bc8e8acb199a28aa94b79f312ac8b7aff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imranhsayed/headless-cms/zipball/913c7e9b640b8479ce76624f81960137a21dcb11",
-                "reference": "913c7e9b640b8479ce76624f81960137a21dcb11",
+                "url": "https://api.github.com/repos/imranhsayed/headless-cms/zipball/25e10c1bc8e8acb199a28aa94b79f312ac8b7aff",
+                "reference": "25e10c1bc8e8acb199a28aa94b79f312ac8b7aff",
                 "shasum": ""
             },
             "require": {
@@ -456,28 +482,32 @@
                 "plugin",
                 "wordpress"
             ],
-            "time": "2021-02-15T14:04:21+00:00"
+            "support": {
+                "issues": "https://github.com/imranhsayed/headless-cms/issues",
+                "source": "https://github.com/imranhsayed/headless-cms/tree/1.7.0"
+            },
+            "time": "2021-04-25T19:08:07+00:00"
         },
         {
             "name": "ivome/graphql-relay-php",
-            "version": "v0.5.0",
+            "version": "v0.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ivome/graphql-relay-php.git",
-                "reference": "b227c17e79564d147db2162329f5bdbe19192313"
+                "reference": "7055fd45b7e552cee4d1290849b84294b0049373"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ivome/graphql-relay-php/zipball/b227c17e79564d147db2162329f5bdbe19192313",
-                "reference": "b227c17e79564d147db2162329f5bdbe19192313",
+                "url": "https://api.github.com/repos/ivome/graphql-relay-php/zipball/7055fd45b7e552cee4d1290849b84294b0049373",
+                "reference": "7055fd45b7e552cee4d1290849b84294b0049373",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.4,<8.0-DEV",
-                "webonyx/graphql-php": ">=0.7.0"
+                "php": "^7.1 || ^8.0",
+                "webonyx/graphql-php": "^14.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "^4.8",
+                "phpunit/phpunit": "^7.5 || ^8.5 || ^9.5",
                 "satooshi/php-coveralls": "~1.0"
             },
             "type": "library",
@@ -497,7 +527,11 @@
                 "api",
                 "graphql"
             ],
-            "time": "2018-05-10T20:18:11+00:00"
+            "support": {
+                "issues": "https://github.com/ivome/graphql-relay-php/issues",
+                "source": "https://github.com/ivome/graphql-relay-php/tree/v0.6.0"
+            },
+            "time": "2021-04-24T19:31:29+00:00"
         },
         {
             "name": "league/oauth2-client",
@@ -564,20 +598,24 @@
                 "oauth2",
                 "single sign on"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/oauth2-client/issues",
+                "source": "https://github.com/thephpleague/oauth2-client/tree/master"
+            },
             "time": "2018-11-22T18:33:57+00:00"
         },
         {
             "name": "opis/json-schema",
-            "version": "1.0.19",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/opis/json-schema.git",
-                "reference": "1bcb3582881d0692d002537a4472964280f71313"
+                "reference": "39d8072be8657a329a284339994401066406c43b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/opis/json-schema/zipball/1bcb3582881d0692d002537a4472964280f71313",
-                "reference": "1bcb3582881d0692d002537a4472964280f71313",
+                "url": "https://api.github.com/repos/opis/json-schema/zipball/39d8072be8657a329a284339994401066406c43b",
+                "reference": "39d8072be8657a329a284339994401066406c43b",
                 "shasum": ""
             },
             "require": {
@@ -589,7 +627,7 @@
                 "ext-json": "*",
                 "ext-mbstring": "*",
                 "opis/string": "^1.4",
-                "phpunit/phpunit": "^6.5 || ^7.0"
+                "phpunit/phpunit": "^6.5 || ^7.0 || ^9.4"
             },
             "suggest": {
                 "opis/string": "A standalone library for manipulating multibyte strings"
@@ -627,7 +665,11 @@
                 "validation",
                 "validator"
             ],
-            "time": "2020-06-07T20:56:25+00:00"
+            "support": {
+                "issues": "https://github.com/opis/json-schema/issues",
+                "source": "https://github.com/opis/json-schema/tree/1.1.0"
+            },
+            "time": "2021-04-14T20:02:50+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -672,6 +714,11 @@
                 "pseudorandom",
                 "random"
             ],
+            "support": {
+                "email": "info@paragonie.com",
+                "issues": "https://github.com/paragonie/random_compat/issues",
+                "source": "https://github.com/paragonie/random_compat"
+            },
             "time": "2020-10-15T08:29:30+00:00"
         },
         {
@@ -730,6 +777,10 @@
                 "phpcs",
                 "standards"
             ],
+            "support": {
+                "issues": "https://github.com/PHPCompatibility/PHPCompatibility/issues",
+                "source": "https://github.com/PHPCompatibility/PHPCompatibility"
+            },
             "time": "2019-12-27T09:44:58+00:00"
         },
         {
@@ -782,20 +833,24 @@
                 "polyfill",
                 "standards"
             ],
+            "support": {
+                "issues": "https://github.com/PHPCompatibility/PHPCompatibilityParagonie/issues",
+                "source": "https://github.com/PHPCompatibility/PHPCompatibilityParagonie"
+            },
             "time": "2021-02-15T10:24:51+00:00"
         },
         {
             "name": "phpcompatibility/phpcompatibility-wp",
-            "version": "2.1.1",
+            "version": "2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCompatibility/PHPCompatibilityWP.git",
-                "reference": "b7dc0cd7a8f767ccac5e7637550ea1c50a67b09e"
+                "reference": "a792ab623069f0ce971b2417edef8d9632e32f75"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCompatibility/PHPCompatibilityWP/zipball/b7dc0cd7a8f767ccac5e7637550ea1c50a67b09e",
-                "reference": "b7dc0cd7a8f767ccac5e7637550ea1c50a67b09e",
+                "url": "https://api.github.com/repos/PHPCompatibility/PHPCompatibilityWP/zipball/a792ab623069f0ce971b2417edef8d9632e32f75",
+                "reference": "a792ab623069f0ce971b2417edef8d9632e32f75",
                 "shasum": ""
             },
             "require": {
@@ -832,7 +887,11 @@
                 "standards",
                 "wordpress"
             ],
-            "time": "2021-02-15T12:58:46+00:00"
+            "support": {
+                "issues": "https://github.com/PHPCompatibility/PHPCompatibilityWP/issues",
+                "source": "https://github.com/PHPCompatibility/PHPCompatibilityWP"
+            },
+            "time": "2021-07-21T11:09:57+00:00"
         },
         {
             "name": "pimple/pimple",
@@ -882,6 +941,9 @@
                 "container",
                 "dependency injection"
             ],
+            "support": {
+                "source": "https://github.com/silexphp/Pimple/tree/v3.3.1"
+            },
             "time": "2020-11-24T20:35:42+00:00"
         },
         {
@@ -919,6 +981,10 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Query gutenberg blocks with wp-graphql",
+            "support": {
+                "issues": "https://github.com/pristas-peter/wp-graphql-gutenberg/issues",
+                "source": "https://github.com/pristas-peter/wp-graphql-gutenberg/tree/v0.3.7"
+            },
             "time": "2021-01-18T05:47:03+00:00"
         },
         {
@@ -968,6 +1034,10 @@
                 "container-interop",
                 "psr"
             ],
+            "support": {
+                "issues": "https://github.com/php-fig/container/issues",
+                "source": "https://github.com/php-fig/container/tree/master"
+            },
             "time": "2017-02-14T16:28:37+00:00"
         },
         {
@@ -1018,20 +1088,23 @@
                 "request",
                 "response"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/http-message/tree/master"
+            },
             "time": "2016-08-06T14:39:51+00:00"
         },
         {
             "name": "psr/log",
-            "version": "1.1.3",
+            "version": "1.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/log.git",
-                "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc"
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/0f73288fd15629204f9d42b7055f72dacbe811fc",
-                "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/d49695b909c3b7628b6289db5479a1c204601f11",
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11",
                 "shasum": ""
             },
             "require": {
@@ -1055,7 +1128,7 @@
             "authors": [
                 {
                     "name": "PHP-FIG",
-                    "homepage": "http://www.php-fig.org/"
+                    "homepage": "https://www.php-fig.org/"
                 }
             ],
             "description": "Common interface for logging libraries",
@@ -1065,7 +1138,10 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2020-03-23T09:12:05+00:00"
+            "support": {
+                "source": "https://github.com/php-fig/log/tree/1.1.4"
+            },
+            "time": "2021-05-03T11:20:27+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -1105,20 +1181,24 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
+            "support": {
+                "issues": "https://github.com/ralouphie/getallheaders/issues",
+                "source": "https://github.com/ralouphie/getallheaders/tree/develop"
+            },
             "time": "2019-03-08T08:55:37+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.5.8",
+            "version": "3.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "9d583721a7157ee997f235f327de038e7ea6dac4"
+                "reference": "ffced0d2c8fa8e6cdc4d695a743271fab6c38625"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/9d583721a7157ee997f235f327de038e7ea6dac4",
-                "reference": "9d583721a7157ee997f235f327de038e7ea6dac4",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/ffced0d2c8fa8e6cdc4d695a743271fab6c38625",
+                "reference": "ffced0d2c8fa8e6cdc4d695a743271fab6c38625",
                 "shasum": ""
             },
             "require": {
@@ -1156,24 +1236,30 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2020-10-23T02:01:07+00:00"
+            "support": {
+                "issues": "https://github.com/squizlabs/PHP_CodeSniffer/issues",
+                "source": "https://github.com/squizlabs/PHP_CodeSniffer",
+                "wiki": "https://github.com/squizlabs/PHP_CodeSniffer/wiki"
+            },
+            "time": "2021-04-09T00:54:41+00:00"
         },
         {
             "name": "symfony/css-selector",
-            "version": "v5.2.3",
+            "version": "v5.3.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/css-selector.git",
-                "reference": "f65f217b3314504a1ec99c2d6ef69016bb13490f"
+                "reference": "7fb120adc7f600a59027775b224c13a33530dd90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/css-selector/zipball/f65f217b3314504a1ec99c2d6ef69016bb13490f",
-                "reference": "f65f217b3314504a1ec99c2d6ef69016bb13490f",
+                "url": "https://api.github.com/repos/symfony/css-selector/zipball/7fb120adc7f600a59027775b224c13a33530dd90",
+                "reference": "7fb120adc7f600a59027775b224c13a33530dd90",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2.5"
+                "php": ">=7.2.5",
+                "symfony/polyfill-php80": "^1.16"
             },
             "type": "library",
             "autoload": {
@@ -1204,6 +1290,9 @@
             ],
             "description": "Converts CSS selectors to XPath expressions",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/css-selector/tree/v5.3.4"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -1218,7 +1307,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-27T10:01:46+00:00"
+            "time": "2021-07-21T12:38:00+00:00"
         },
         {
             "name": "symfony/dependency-injection",
@@ -1284,6 +1373,9 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/dependency-injection/tree/v3.4.47"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -1302,16 +1394,16 @@
         },
         {
             "name": "symfony/polyfill-intl-idn",
-            "version": "v1.22.1",
+            "version": "v1.23.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-idn.git",
-                "reference": "2d63434d922daf7da8dd863e7907e67ee3031483"
+                "reference": "65bd267525e82759e7d8c4e8ceea44f398838e65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/2d63434d922daf7da8dd863e7907e67ee3031483",
-                "reference": "2d63434d922daf7da8dd863e7907e67ee3031483",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/65bd267525e82759e7d8c4e8ceea44f398838e65",
+                "reference": "65bd267525e82759e7d8c4e8ceea44f398838e65",
                 "shasum": ""
             },
             "require": {
@@ -1325,7 +1417,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.22-dev"
+                    "dev-main": "1.23-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -1368,6 +1460,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.23.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -1382,20 +1477,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-22T09:19:47+00:00"
+            "time": "2021-05-27T09:27:20+00:00"
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
-            "version": "v1.22.1",
+            "version": "v1.23.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-normalizer.git",
-                "reference": "43a0283138253ed1d48d352ab6d0bdb3f809f248"
+                "reference": "8590a5f561694770bdcd3f9b5c69dde6945028e8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/43a0283138253ed1d48d352ab6d0bdb3f809f248",
-                "reference": "43a0283138253ed1d48d352ab6d0bdb3f809f248",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/8590a5f561694770bdcd3f9b5c69dde6945028e8",
+                "reference": "8590a5f561694770bdcd3f9b5c69dde6945028e8",
                 "shasum": ""
             },
             "require": {
@@ -1407,7 +1502,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.22-dev"
+                    "dev-main": "1.23-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -1449,6 +1544,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.23.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -1463,20 +1561,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-22T09:19:47+00:00"
+            "time": "2021-02-19T12:13:01+00:00"
         },
         {
             "name": "symfony/polyfill-php72",
-            "version": "v1.22.1",
+            "version": "v1.23.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php72.git",
-                "reference": "cc6e6f9b39fe8075b3dabfbaf5b5f645ae1340c9"
+                "reference": "9a142215a36a3888e30d0a9eeea9766764e96976"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php72/zipball/cc6e6f9b39fe8075b3dabfbaf5b5f645ae1340c9",
-                "reference": "cc6e6f9b39fe8075b3dabfbaf5b5f645ae1340c9",
+                "url": "https://api.github.com/repos/symfony/polyfill-php72/zipball/9a142215a36a3888e30d0a9eeea9766764e96976",
+                "reference": "9a142215a36a3888e30d0a9eeea9766764e96976",
                 "shasum": ""
             },
             "require": {
@@ -1485,7 +1583,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.22-dev"
+                    "dev-main": "1.23-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -1522,6 +1620,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php72/tree/v1.23.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -1536,7 +1637,90 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-07T16:49:33+00:00"
+            "time": "2021-05-27T09:17:38+00:00"
+        },
+        {
+            "name": "symfony/polyfill-php80",
+            "version": "v1.23.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-php80.git",
+                "reference": "1100343ed1a92e3a38f9ae122fc0eb21602547be"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/1100343ed1a92e3a38f9ae122fc0eb21602547be",
+                "reference": "1100343ed1a92e3a38f9ae122fc0eb21602547be",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "1.23-dev"
+                },
+                "thanks": {
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Polyfill\\Php80\\": ""
+                },
+                "files": [
+                    "bootstrap.php"
+                ],
+                "classmap": [
+                    "Resources/stubs"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ion Bazan",
+                    "email": "ion.bazan@gmail.com"
+                },
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "compatibility",
+                "polyfill",
+                "portable",
+                "shim"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.23.1"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2021-07-28T13:41:28+00:00"
         },
         {
             "name": "valu/wp-graphql-offset-pagination",
@@ -1583,6 +1767,10 @@
                 }
             ],
             "description": "Add offset pagination to wp-graphql",
+            "support": {
+                "issues": "https://github.com/valu-digital/wp-graphql-offset-pagination/issues",
+                "source": "https://github.com/valu-digital/wp-graphql-offset-pagination"
+            },
             "time": "2020-05-06T07:36:57+00:00"
         },
         {
@@ -1642,6 +1830,10 @@
                 "dom",
                 "php dom"
             ],
+            "support": {
+                "issues": "https://github.com/voku/simple_html_dom/issues",
+                "source": "https://github.com/voku/simple_html_dom/tree/4.7.17"
+            },
             "funding": [
                 {
                     "url": "https://www.paypal.me/moelleken",
@@ -1664,16 +1856,16 @@
         },
         {
             "name": "webonyx/graphql-php",
-            "version": "v14.4.0",
+            "version": "v14.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webonyx/graphql-php.git",
-                "reference": "aab3d49181467db064b41429cde117a7589625fc"
+                "reference": "36b83621deb5eae354347a2e86dc7aec81b32a82"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/aab3d49181467db064b41429cde117a7589625fc",
-                "reference": "aab3d49181467db064b41429cde117a7589625fc",
+                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/36b83621deb5eae354347a2e86dc7aec81b32a82",
+                "reference": "36b83621deb5eae354347a2e86dc7aec81b32a82",
                 "shasum": ""
             },
             "require": {
@@ -1687,9 +1879,9 @@
                 "nyholm/psr7": "^1.2",
                 "phpbench/phpbench": "^0.16.10",
                 "phpstan/extension-installer": "^1.0",
-                "phpstan/phpstan": "0.12.32",
-                "phpstan/phpstan-phpunit": "0.12.11",
-                "phpstan/phpstan-strict-rules": "0.12.2",
+                "phpstan/phpstan": "0.12.82",
+                "phpstan/phpstan-phpunit": "0.12.18",
+                "phpstan/phpstan-strict-rules": "0.12.9",
                 "phpunit/phpunit": "^7.2|^8.5",
                 "psr/http-message": "^1.0",
                 "react/promise": "2.*",
@@ -1716,34 +1908,39 @@
                 "api",
                 "graphql"
             ],
+            "support": {
+                "issues": "https://github.com/webonyx/graphql-php/issues",
+                "source": "https://github.com/webonyx/graphql-php/tree/v14.9.0"
+            },
             "funding": [
                 {
                     "url": "https://opencollective.com/webonyx-graphql-php",
                     "type": "open_collective"
                 }
             ],
-            "time": "2020-12-03T16:05:21+00:00"
+            "time": "2021-06-15T16:14:17+00:00"
         },
         {
             "name": "wp-graphql/wp-graphql",
-            "version": "v1.2.0",
+            "version": "v1.6.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-graphql/wp-graphql.git",
-                "reference": "0f6c8ae9dfae1c91a495694de7f9f1897d612dc9"
+                "reference": "0068cb66cdb3ad2fe35223862e4b57914f15d01c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-graphql/wp-graphql/zipball/0f6c8ae9dfae1c91a495694de7f9f1897d612dc9",
-                "reference": "0f6c8ae9dfae1c91a495694de7f9f1897d612dc9",
+                "url": "https://api.github.com/repos/wp-graphql/wp-graphql/zipball/0068cb66cdb3ad2fe35223862e4b57914f15d01c",
+                "reference": "0068cb66cdb3ad2fe35223862e4b57914f15d01c",
                 "shasum": ""
             },
             "require": {
-                "ivome/graphql-relay-php": "0.5.0",
-                "php": ">=7.1.0",
-                "webonyx/graphql-php": "14.4.0"
+                "ivome/graphql-relay-php": "0.6.0",
+                "php": "^7.1 || ^8.0",
+                "webonyx/graphql-php": "14.9.0"
             },
             "require-dev": {
+                "automattic/vipwpcs": "^2.2",
                 "codeception/module-asserts": "^1.0",
                 "codeception/module-cli": "^1.0",
                 "codeception/module-db": "^1.0",
@@ -1754,15 +1951,15 @@
                 "codeception/util-universalframework": "^1.0",
                 "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
                 "lucatume/wp-browser": "^2.4",
-                "phpcompatibility/phpcompatibility-wp": "2.1.0",
+                "phpcompatibility/phpcompatibility-wp": "^2.1.0",
                 "phpstan/extension-installer": "^1.1",
                 "phpstan/phpstan": "^0.12.64",
-                "phpunit/phpunit": "9.4.1",
+                "phpunit/phpunit": "^8.5",
                 "simpod/php-coveralls-mirror": "^3.0",
-                "squizlabs/php_codesniffer": "3.5.4",
+                "squizlabs/php_codesniffer": "^3.5.7",
                 "szepeviktor/phpstan-wordpress": "^0.7.1",
-                "wp-coding-standards/wpcs": "2.1.1",
-                "wp-graphql/wp-graphql-testcase": "^1.0"
+                "wp-coding-standards/wpcs": "^2.3",
+                "wp-graphql/wp-graphql-testcase": "~2.1"
             },
             "type": "wordpress-plugin",
             "autoload": {
@@ -1798,7 +1995,75 @@
                 }
             ],
             "description": "GraphQL API for WordPress",
-            "time": "2021-02-27T16:12:20+00:00"
+            "support": {
+                "issues": "https://github.com/wp-graphql/wp-graphql/issues",
+                "source": "https://github.com/wp-graphql/wp-graphql/tree/v1.6.3"
+            },
+            "time": "2021-08-13T17:22:35+00:00"
+        },
+        {
+            "name": "wp-graphql/wp-graphql-acf",
+            "version": "v0.5.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wp-graphql/wp-graphql-acf.git",
+                "reference": "0ac0529697d67192ce6b0e9fc27c5dfb3807250c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/wp-graphql/wp-graphql-acf/zipball/0ac0529697d67192ce6b0e9fc27c5dfb3807250c",
+                "reference": "0ac0529697d67192ce6b0e9fc27c5dfb3807250c",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.1 || ^8.0"
+            },
+            "require-dev": {
+                "codeception/module-asserts": "^1.0",
+                "codeception/module-cli": "^1.0",
+                "codeception/module-db": "^1.0",
+                "codeception/module-filesystem": "^1.0",
+                "codeception/module-phpbrowser": "^1.0",
+                "codeception/module-rest": "^1.2",
+                "codeception/module-webdriver": "^1.0",
+                "codeception/util-universalframework": "^1.0",
+                "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+                "lucatume/wp-browser": "^2.4",
+                "phpcompatibility/phpcompatibility-wp": "2.1.0",
+                "phpstan/extension-installer": "^1.1",
+                "phpstan/phpstan": "^0.12.64",
+                "phpunit/phpunit": "^8.5",
+                "simpod/php-coveralls-mirror": "^3.0",
+                "squizlabs/php_codesniffer": "3.5.4",
+                "szepeviktor/phpstan-wordpress": "^0.7.1",
+                "wp-coding-standards/wpcs": "2.1.1",
+                "wp-graphql/wp-graphql-testcase": "~2.1"
+            },
+            "type": "wordpress-plugin",
+            "autoload": {
+                "psr-4": {
+                    "WPGraphQL\\ACF\\": "src/"
+                },
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "jasonbahl",
+                    "email": "jasonbahl@mac.com"
+                }
+            ],
+            "description": "Advanced Custom Fields bindings for wp-graphql",
+            "support": {
+                "issues": "https://github.com/wp-graphql/wp-graphql-acf/issues",
+                "source": "https://github.com/wp-graphql/wp-graphql-acf/tree/v0.5.3"
+            },
+            "time": "2021-07-19T22:12:00+00:00"
         },
         {
             "name": "wp-graphql/wp-graphql-jwt-authentication",
@@ -1840,6 +2105,10 @@
                 }
             ],
             "description": "JWT Authentication for WPGraphQL",
+            "support": {
+                "issues": "https://github.com/wp-graphql/wp-graphql-jwt-authentication/issues",
+                "source": "https://github.com/wp-graphql/wp-graphql-jwt-authentication/tree/master"
+            },
             "time": "2020-02-20T17:52:07+00:00"
         },
         {
@@ -1903,20 +2172,24 @@
             "keywords": [
                 "wordpress"
             ],
+            "support": {
+                "issues": "https://github.com/Yoast/i18n-module/issues",
+                "source": "https://github.com/Yoast/i18n-module"
+            },
             "time": "2019-05-07T06:45:05+00:00"
         },
         {
             "name": "yoast/wordpress-seo",
-            "version": "15.9",
+            "version": "15.9.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Yoast-dist/wordpress-seo.git",
-                "reference": "0602e3cfd3fb4df4151f6c45e7f5eab3cfe42666"
+                "reference": "78fe7786d9961de2fcdcc7af6b547ad8608ddd91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Yoast-dist/wordpress-seo/zipball/0602e3cfd3fb4df4151f6c45e7f5eab3cfe42666",
-                "reference": "0602e3cfd3fb4df4151f6c45e7f5eab3cfe42666",
+                "url": "https://api.github.com/repos/Yoast-dist/wordpress-seo/zipball/78fe7786d9961de2fcdcc7af6b547ad8608ddd91",
+                "reference": "78fe7786d9961de2fcdcc7af6b547ad8608ddd91",
                 "shasum": ""
             },
             "require": {
@@ -1924,6 +2197,7 @@
                 "league/oauth2-client": "2.4.1",
                 "php": "^5.6.20||^7.0",
                 "pimple/pimple": "^3.2",
+                "psr/container": "1.0.0",
                 "psr/log": "^1.0",
                 "symfony/dependency-injection": "^3.4",
                 "yoast/i18n-module": "^3.1.1"
@@ -1965,7 +2239,13 @@
                 "seo",
                 "wordpress"
             ],
-            "time": "2021-02-23T07:29:23+00:00"
+            "support": {
+                "forum": "https://wordpress.org/support/plugin/wordpress-seo",
+                "issues": "https://github.com/Yoast/wordpress-seo/issues",
+                "source": "https://github.com/Yoast/wordpress-seo",
+                "wiki": "https://github.com/Yoast/wordpress-seo/wiki"
+            },
+            "time": "2021-03-11T09:17:54+00:00"
         }
     ],
     "packages-dev": [],
@@ -1976,5 +2256,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.1.0"
 }
